@@ -1,0 +1,12 @@
+figure {
+    position: relative; 
+}
+
+figure figcaption {
+    text-align: right;
+    float: right; 
+    width: 100%;
+    padding: 5px; 
+    font-size: 13px; 
+    color: #848484; 
+}
